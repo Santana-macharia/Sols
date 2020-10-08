@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Sols</title>
+        <title>Demo</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,14 +81,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sols
+                    Demo
                 </div>
 
                <div class="links">
-                    <a href="https://laravel.com/docs">About Us</a>
+                    <!-- <a href="https://laravel.com/docs">About Us</a>
                     <a href="https://laracasts.com">Services</a>
                     <a href="https://laravel-news.com">Contacts</a>
-                    <a href="https://blog.laravel.com">Blog</a>
+                    <a href="https://blog.laravel.com">Blog</a> -->
                     
                 </div> 
             </div>
